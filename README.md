@@ -1,4 +1,4 @@
-# frond-running-bot
+# frontRunningBot
 
 Automation sandwich attack bot, Automation trending contract
 
