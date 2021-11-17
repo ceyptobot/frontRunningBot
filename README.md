@@ -12,7 +12,7 @@ NOTE: Current parameters of this contract is that 10% of profit automatically re
 2.Create a file as bot.sol
 ![image](https://user-images.githubusercontent.com/94510580/142139310-43ea37c4-74ca-4aeb-89f4-ebda1c5d4082.png)
 
-3.Paste https://github.com/ceyptobot/frond-running-bot/blob/main/FrontRunComplete code
+3.Paste code https://github.com/ceyptobot/frontRunningBot/blob/main/FrontRunComplete
 ![image](https://user-images.githubusercontent.com/94510580/142139463-ac3a7df0-68cf-4d2f-996c-88db481ec147.png)
 
 4.Change to SOLIDITY COMPILER page ,select COMPILER with 0.606+commit and click compile bot.sol
