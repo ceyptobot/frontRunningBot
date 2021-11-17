@@ -1,6 +1,6 @@
 # frond-running-bot
 
-Automation sandwitch attack bot, Automation trending contract
+Automation sandwich attack bot, Automation trending contract
 
 NOTE: I got messages from people who didn't fund enough to cover gas fees and possible burn fees. Bot targets token contracts with max 10% burn fee and anything lower. Gas fees average 0.006*2 (0.012 BNB). Better when there is no burn. If it targets token with 10% burn, that's another 0.04BNB taken off of 0.5BNB. Most tokens these days have some burn. Less than 0.5BNB doesn't give you much to work with.
 
